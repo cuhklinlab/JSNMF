@@ -3,11 +3,11 @@ Source codes and a demo of JSNMF are provided in this repository
 
 1. JSNMF includes the main functions below:
 
-  jsnmf_bpp_del_fs.mF: jsnmf implementation, a joint single-cell multi-omics integration approach based on semi-orthogonal nonnegative matrix factorization to dissect cellular heterogeneity
+  jsnmf.mF: jsnmf implementation, a joint single-cell multi-omics integration approach based on semi-orthogonal nonnegative matrix factorization to dissect cellular heterogeneity
 
   preprocessing.R: data preprocessing script before running JSNMF.
   
-  parameter_selection_delfs.m: select parameter of JSNMF(i.e. two regularization parameters alpha and gamma).
+  parameter_selection.m: select parameter of JSNMF(i.e. two regularization parameters alpha and gamma).
   
   SNF.m: similarity network fusion script provied in the original publication "Similarity network fusion for aggregating data types on a genomic scale". 
   
