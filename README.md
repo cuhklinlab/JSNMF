@@ -15,6 +15,8 @@ Source codes and a demo of JSNMF are provided in this repository
 
   RAGI.m: evaluated the performance of the clustering methods using the Residual Average Gini Index (RAGI).
   
+  plot_fig4.m: plot figure 4 in the body text
+  
   demo_kidney.m: an example to use jsnmf method on mouse kidney data (sci-CAR). It contains some downstream analysis tasks, such as clustering, visualization and so on.
   
   demo_h3k4me3.m: an example to use jsnmf method on mouse brain data (scRNA + H3K4me3, Paired-Tag). It contains some downstream analysis tasks, such as clustering, visualization and so on.
