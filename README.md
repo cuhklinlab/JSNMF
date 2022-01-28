@@ -1,8 +1,7 @@
 # JSNMF
-=======
 Source codes and a demo of JSNMF are provided in this repository
 
-1. JSNMF includes the main functions below:
+#1. JSNMF includes the main functions below:
 
   jsnmf.mF: jsnmf implementation, a joint single-cell multi-omics integration approach based on semi-orthogonal nonnegative matrix factorization to dissect cellular heterogeneity
 
@@ -22,9 +21,9 @@ Source codes and a demo of JSNMF are provided in this repository
   
   demo_h3k4me3.m: an example to use jsnmf method on mouse brain data (scRNA + H3K4me3, Paired-Tag). It contains some downstream analysis tasks, such as clustering, visualization and so on.
 
-2. Datasets and Examples
+#2. Datasets and Examples
 
   Please refer to two examples(jsnmf_mouse brain_H3K4me3_paired-Tag.mlx and jsnmf_mouse kidney_sci-CAR.mlx) for a quick guide to JSNMF.
   If you have any questions about the source code, please feel free to contact me: chonghua_1983@126.com
 
-3. Reference
+#3. Reference
