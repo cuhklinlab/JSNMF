@@ -1,4 +1,5 @@
 # JSNMF
+=======
 Source codes and a demo of JSNMF are provided in this repository
 
 1. JSNMF includes the main functions below:
