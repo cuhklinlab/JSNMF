@@ -1,5 +1,6 @@
 # JSNMF
-Source codes and a demo of JSNMF are provided in this repository
+Source codes and a demo of JSNMF are provided in this repositore
+Running environment：MATLAB R2019b or later. 
 
 # 1. JSNMF includes the main functions below:
 
